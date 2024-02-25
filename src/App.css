@@ -1,0 +1,6 @@
+.navbar a{
+  text-decoration: none;
+}
+.active{
+  background-color: rgb(35, 206, 186);
+}
