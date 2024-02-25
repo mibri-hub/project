@@ -1,5 +1,9 @@
-.navbar a{
-  text-decoration: none;
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+a{
+  text-decoration: none!important;
 }
 .active{
   background-color: rgb(35, 206, 186);
